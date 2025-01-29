@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Vite build output
+dist/
+.vite/
+
+# Editor e sistema operacional
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs e relatórios de depuração
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Arquivos de ambiente
+.env.local
+.env.*.local
+
+# Cache e arquivos temporários
+temp/
+tmp/
+.cache/
