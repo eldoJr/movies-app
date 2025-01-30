@@ -16,7 +16,7 @@ Demo WebSite : https://movie-vue-alaa.netlify.app/
 </ul>
 
 ## Acknowledgments
-Uses a movie database API [The Movie Database API](https://developer.themoviedb.org/reference/intro/getting-started) to fetch movie data. Configure on .env!
+Uses a movie database API [The Movie Database API](https://developer.themoviedb.org/reference/intro/getting-started) to fetch movie data. Configure on ```.env``` file!
 
 ## Getting Started
 To get started with this project, follow these steps:
